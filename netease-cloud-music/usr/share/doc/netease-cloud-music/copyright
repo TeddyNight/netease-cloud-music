@@ -1,0 +1,17 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: netease-cloud-music
+Upstream-Contact: Xu Shaohua<xushaohua@deepin.com>
+Disclaimer:
+ This package is not part of Debian operating system.
+ .
+ The binary package (without modification) is freely redistributable
+ for non-commercial purpose, effectively making them distributable
+ through Debian's infrastructure (including the mirror network), or
+ its downstream distributions that have similar set up of Debian's
+ non-free area.
+
+Files: *
+Copyright: 2015, NetEase, Inc. & Deepin, Inc.
+
+License: netease-cloud-music-proprietary
+ All rights reserved

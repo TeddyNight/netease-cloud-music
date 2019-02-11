@@ -1,0 +1,3 @@
+#!/bin/bash
+export LD_LIBRARY_PATH=/opt/netease-cloud-music/:$LD_LIBRARY_PATH
+/opt/netease-cloud-music/netease-cloud-music
